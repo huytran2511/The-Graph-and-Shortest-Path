@@ -7,7 +7,7 @@ This program utilizes Map and Linked List ADT to implement a weighted, directed 
 - Resets the graph to an empty state
 - Reports if a vertex is stored within the graph
 - Removes a specified edge, if it exists
-- Identifies if aa path exists between two vertices
+- Identifies if a path exists between two vertices
 - Provides a collection of neighboring vertices of a target vertex
 - Remove a vertex and all edges connected to that vertex
 - Find the shortest path between two vertices (using Dijkstra's shortest path algorithm)
