@@ -1,4 +1,4 @@
-# The-Graph
+# The-Graph-and-Shortest-Path
 
 This program utilizes Map and Linked List ADT to implement a weighted, directed Graph ADT to store the relationship between vertices V and their edges E. The data of V and E is imported from a single CSV file (a list of cities and their connections). the Graph ADT is able to perform the following functionalities:
 
